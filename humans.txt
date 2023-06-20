@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Joao -- Gerente -- @jg
     <name> -- <role> -- <twitter>
 
 # THANKS
